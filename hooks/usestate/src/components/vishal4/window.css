@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    margin-top: 300px;
+}
+span{
+    /* width: 1000px; */
+    height: 50px;
+    color: blue;
+    border: 2px solid rgb(65, 237, 56);
+    border-radius: 10px;
+}
